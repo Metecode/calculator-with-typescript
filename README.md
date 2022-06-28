@@ -1,6 +1,6 @@
 # Calculator-with-typescript
 
-A simple little typescript project.
+A simple little typescript console app.
 
 ### Clone
 ```bash
